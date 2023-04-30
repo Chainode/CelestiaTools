@@ -4,7 +4,7 @@
 ``` 
 wget https://github.com/Chainode/CelestiaTools/blob/main/celbridge_export
 ```
-In this repo you can also find the code of the compiled binary, in the file celbridge_export.go
+In this repo you can also find the code of the compiled binary, in the file `celbridge_export.go`. This means you can clone this repo, modify the code as you wish and compile it yourself. For this a Go version higher than `go1.16.7` is recommended. 
 
 The binary has the following flags:
 ``` 
